@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **bescoffery/bescoffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Britney  
 
-I’m a **full-stack developer** with a background in **data management** and **healthcare operations**.  
-I’m passionate about building **interactive, user-focused web applications** that connect people and simplify complex workflows.  
+I’m a full-stack engineer with a background in data management and healthcare operations.  
+I’m passionate about building interactive, user-focused web applications that connect people and simplify complex workflows.  
 
 💻 **Tech Stack:** JavaScript | React | Python | Flask | SQL  
