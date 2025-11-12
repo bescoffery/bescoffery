@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Britney  
 
-I’m a full-stack engineer with a background in data management and healthcare operations.  
+I’m a full-stack engineer with a background in psychology, data management, and healthcare operations.  
 I’m passionate about building interactive, user-focused web applications that connect people and simplify complex workflows.  
 
-💻 **Tech Stack:** JavaScript | React | Python | Flask | SQL  
+💻 **I code using:** JavaScript | React | Python | Flask | SQL  
