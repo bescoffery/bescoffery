@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I’m Britney  
+# 👋 Hi, I’m Britney!  
 
 I’m a full-stack engineer with a background in psychology, data management, and healthcare operations.  
 I’m passionate about building interactive, user-focused web applications that connect people and simplify complex workflows.  
